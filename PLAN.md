@@ -1,4 +1,4 @@
-# PLAN DE CONSTRUCTION — royalkelo.com
+# PLAN DE CONSTRUCTION : royalkelo.com
 
 Ce document est autonome. Il ne renvoie a aucune conversation anterieure, a aucune version
 precedente, a aucun autre fichier que ceux qu'il nomme. Tout ce qu'il faut pour batir le site
@@ -202,26 +202,28 @@ Une barre de progression doree, fine, sous le cadre, indique ou en est la sequen
 
 ### 5.3 Textes exacts de la section
 
-- Sur-titre : `LA DEMONSTRATION`
+- Sur-titre : `LA DÉMONSTRATION`
 - Titre : `Regardez-la travailler.`
-- Texte : `Ce que vous voyez n'est pas une animation. C'est une sequence reelle, enregistree image par image dans un vrai navigateur, pilote par une seule phrase en francais.`
-- Legende sous le cadre : `Sequence reelle enregistree le [DATE DU JOUR OU TU L'ENREGISTRES], acceleree.` Tu remplaces le crochet par la date reelle du jour ou tu produis les captures.
-- Bouton : `Demander une demonstration en direct`
+- Texte : `Ce que vous voyez n'est pas une animation. C'est une séquence réelle, enregistrée image par image dans un vrai navigateur, piloté par une seule phrase en français.`
+- Legende sous le cadre : `Séquence réelle enregistrée le [DATE DU JOUR OU TU L'ENREGISTRES], accélérée.` Tu remplaces le crochet par la date reelle du jour ou tu produis les captures.
+- Bouton : `Demander une démonstration en direct`
 
 ---
 
 ## 6. Les textes exacts du reste de la page
 
-Utilise ces textes tels quels. Tu peux corriger une coquille, tu n'inventes pas de contenu
-nouveau, tu ne rajoutes pas de chiffres, ni de pourcentages, ni de noms de clients.
+Utilise ces textes tels quels, **avec leurs accents**. Le francais du site est accentue
+correctement, sans exception : c'est un site commercial, une lettre manquante se voit.
+Tu peux corriger une coquille, tu n'inventes pas de contenu nouveau, tu ne rajoutes ni
+chiffres, ni pourcentages, ni noms de clients.
 
 ### 6.1 Ouverture
 
-- Sur-titre : `MONTREAL`
+- Sur-titre : `MONTRÉAL`
 - Titre : `Nous mettons l'intelligence artificielle au travail dans votre entreprise.`
-- Sous-titre : `Automatisation de navigateur. Implantation d'IA. Formation de vos equipes.`
-- Bouton principal : `Voir la demonstration` (ancre vers la section demonstration)
-- Bouton secondaire : `Nous ecrire`
+- Sous-titre : `Automatisation de navigateur. Implantation d'IA. Formation de vos équipes.`
+- Bouton principal : `Voir la démonstration` (ancre vers la section demonstration)
+- Bouton secondaire : `Nous écrire`
 
 Fond : noir profond, une seule source de lumiere doree tres diffuse en haut a droite, obtenue
 par un `radial-gradient` a tres faible opacite. Rien d'autre. Pas d'image de stock.
@@ -232,46 +234,46 @@ par un `radial-gradient` a tres faible opacite. Rien d'autre. Pas d'image de sto
 - Titre : `Automatisation de navigateur`
 - Accroche : `Tout ce qu'une personne fait dans un navigateur, une machine peut le refaire. Sans se tromper, la nuit, cent fois de suite.`
 - Liste :
-  - `Extraction de donnees depuis des sites qui n'offrent aucune interface`
-  - `Remplissage et depot de formulaires en serie`
-  - `Veille quotidienne et rapports envoyes automatiquement`
-  - `Taches repetitives que personne n'aime faire`
-  - `Verification reguliere de vos propres sites et formulaires`
-- Ligne de preuve, mise en valeur : `L'outil que vous venez de voir travailler est le notre. Nous nous en servons tous les jours.`
+  - `Extraction de données depuis des sites qui n'offrent aucune interface`
+  - `Remplissage et dépôt de formulaires en série`
+  - `Veille quotidienne et rapports envoyés automatiquement`
+  - `Tâches répétitives que personne n'aime faire`
+  - `Vérification régulière de vos propres sites et formulaires`
+- Ligne de preuve, mise en valeur : `L'outil que vous venez de voir travailler est le nôtre. Nous nous en servons tous les jours.`
 
 ### 6.3 L'IA implantee et enseignee
 
 - Sur-titre : `SERVICE`
-- Titre : `L'IA, implantee et enseignee`
-- Accroche : `Nous ne vendons pas un abonnement de plus. Nous installons l'intelligence artificielle la ou votre travail se fait, puis nous formons ceux qui vont s'en servir.`
+- Titre : `L'IA, implantée et enseignée`
+- Accroche : `Nous ne vendons pas un abonnement de plus. Nous installons l'intelligence artificielle là où votre travail se fait, puis nous formons ceux qui vont s'en servir.`
 - Liste :
-  - `Audit de vos taches : ce qui gagne a etre automatise, et ce qui doit rester humain`
-  - `Choix et mise en place des outils, chez vous, avec vos donnees`
-  - `Formation des equipes, en francais ou en anglais`
-  - `Formation des dirigeants qui veulent piloter eux-memes`
-  - `Accompagnement apres la mise en place`
+  - `Audit de vos tâches : ce qui gagne à être automatisé, et ce qui doit rester humain`
+  - `Choix et mise en place des outils, chez vous, avec vos données`
+  - `Formation des équipes, en français ou en anglais`
+  - `Formation des dirigeants qui veulent piloter eux-mêmes`
+  - `Accompagnement après la mise en place`
 
 ### 6.4 Les autres services
 
 Trois cartes, meme taille, disposition en grille.
 
-1. Titre `Applications mobiles` — texte `Des applications concues et livrees vite, sans equipe de dix personnes.`
-2. Titre `Sites web` — texte `Des sites qui ne ressemblent a aucun autre. Celui que vous lisez en est un.`
-3. Titre `Textile Royal KEL'O` — texte `Des vetements a la marque. Details sur demande.`
+1. Titre `Applications mobiles`, texte `Des applications conçues et livrées vite, sans équipe de dix personnes.`
+2. Titre `Sites web`, texte `Des sites qui ne ressemblent à aucun autre. Celui que vous lisez en est un.`
+3. Titre `Textile Royal KEL'O`, texte `Des vêtements à la marque. Détails sur demande.`
 
 ### 6.5 Comment on travaille
 
 Trois etapes numerotees, chiffres en or, grands.
 
-1. `On regarde` — `Une rencontre, vos ecrans, vos vraies journees. On repere ce qui se repete.`
-2. `On construit` — `On bati l'outil, on vous le montre en marche, on corrige devant vous.`
-3. `On vous forme` — `Vos gens savent s'en servir et le modifier. Vous ne dependez de personne.`
+1. Titre `On regarde`, texte `Une rencontre, vos écrans, vos vraies journées. On repère ce qui se répète.`
+2. Titre `On construit`, texte `On bâtit l'outil, on vous le montre en marche, on corrige devant vous.`
+3. Titre `On vous forme`, texte `Vos gens savent s'en servir et le modifier. Vous ne dépendez de personne.`
 
 ### 6.6 Contact
 
 - Sur-titre : `PARLONS-EN`
-- Titre : `Ecrivez-nous.`
-- Texte : `Dites-nous en deux lignes ce qui vous fait perdre du temps. Nous repondons avec une demonstration, pas avec une brochure.`
+- Titre : `Écrivez-nous.`
+- Texte : `Dites-nous en deux lignes ce qui vous fait perdre du temps. Nous répondons avec une démonstration, pas avec une brochure.`
 - Bouton courriel : libelle `contact@royalkelo.com`, lien `mailto:contact@royalkelo.com`
 - Bouton WhatsApp : libelle `WhatsApp`, avec l'attribut `href=""` et `data-a-remplir="whatsapp"`.
   **Tu n'inventes aucun numero de telephone.** Enock remplira ce lien lui-meme avec la ligne
@@ -279,7 +281,7 @@ Trois etapes numerotees, chiffres en or, grands.
 
 ### 6.7 Pied de page
 
-Une seule ligne, discrete : `Royal KEL'O — Montreal, Canada` et l'annee en cours, calculee en
+Une seule ligne, discrete : `Royal KEL'O, Montreal, Canada` et l'annee en cours, calculee en
 JavaScript, jamais ecrite en dur.
 
 ---
